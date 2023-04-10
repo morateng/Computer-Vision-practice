@@ -1,2 +1,2 @@
 # Computer-Vision-practice
-컴퓨터 비전 실습
+2023-1 컴퓨터 비전 실습
